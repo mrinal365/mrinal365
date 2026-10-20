@@ -30,13 +30,13 @@ I care about maintainable code, thoughtful product decisions, and systems that w
       <p><strong>Focus:</strong> Product ownership · Full-stack development</p>
       <a href="https://explore.baby">Live product ↗</a>
       <br/><br/>
-      <em>Add the source repository link here if it is public.</em>
+      <!-- <em>Add the source repository link here if it is public.</em> -->
     </td>
     <td width="50%" valign="top">
       <h3>🧠 AI Research Copilot</h3>
       <p>An AI research workflow with retrieval, tools, and structured responses.</p>
       <p><strong>Focus:</strong> Python · LangGraph · RAG</p>
-      <em>Replace this card with your implemented repository.</em>
+      <!-- <em>Replace this card with your implemented repository.</em> -->
     </td>
   </tr>
   <tr>
@@ -44,13 +44,13 @@ I care about maintainable code, thoughtful product decisions, and systems that w
       <h3>🏗️ Backend & System Design</h3>
       <p>A production-minded implementation of a backend system or design pattern.</p>
       <p><strong>Focus:</strong> TypeScript · APIs · Testing</p>
-      <em>Link your strongest completed backend repository.</em>
+      <!-- <em>Link your strongest completed backend repository.</em> -->
     </td>
     <td width="50%" valign="top">
       <h3>📊 Order Review Dashboard</h3>
       <p>An internal workflow for reviewing and resolving order discrepancies.</p>
       <p><strong>Focus:</strong> React · Authentication · Workflow design</p>
-      <em>Link only a sanitized, shareable implementation.</em>
+      <!-- <em>Link only a sanitized, shareable implementation.</em> -->
     </td>
   </tr>
 </table>
